@@ -8,27 +8,7 @@
       var formHTML = `
         <div class="container">
           <h1>Create Account</h1>
-          <form id="create-account-form">
-            <div class="form-group">
-              <label for="name">Enter Your Name</label>
-              <input type="text" id="name" name="name" required>
-            </div>
-            <div class="form-group">
-              <label for="usermobile">Mobile Number</label>
-              <input type="text" id="usermobile" name="usermobile" required>
-            </div>
-            <div class="form-group">
-              <label for="useraddhar"> Card Number</label>
-              <input type="text" id="useraddhar" name="useraddhar" required>
-            </div>
-            <div class="form-group">
-              <label for="userpassword">Enter a Password</label>
-              <input type="password" id="userpassword" name="userpassword" required>
-            </div>
-            <div class="form-group">
-              <button type="submit">Create Account</button>
-            </div>
-          </form>
+          <iframe src="https://ahmedibrahim2.github.io/iframe/form.html" width="600" height="600"></iframe>
         </div>
         <style>
           body { font-family: Arial, sans-serif; }
